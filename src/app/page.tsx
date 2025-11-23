@@ -30,8 +30,8 @@ export default function Home() {
             Shorten Your Links
           </h1>
           <p className="text-muted-foreground text-lg max-w-[600px]">
-            A minimal ads and distraction free anonymous URL shortener.
-            Generate short links, QR codes, and track analytics without any account.
+            A minimal, ads and distraction free, public URL shortener.
+            Generate and track analytics without any account!
           </p>
         </div>
 
