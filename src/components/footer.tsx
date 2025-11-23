@@ -2,8 +2,8 @@ import Link from "next/link"
 
 export function Footer() {
     return (
-        <footer className="border-t bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
-            <div className="container py-4 text-center text-xs text-muted-foreground">
+        <footer className="py-4 bg-background/95 backdrop-blur supports-[backdrop-filter]:bg-background/60">
+            <div className="text-center text-xs text-muted-foreground">
                 <p>
                     Built by{" "}
                         <a
