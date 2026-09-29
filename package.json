@@ -46,10 +46,5 @@
     "js-yaml": "^4.3.2",
     "next": "^16.3.6"
   },
-  "pnpm": {
-    "overrides": {
-      "js-yaml": "^4.3.2",
-      "next": "^16.3.6"
-    }
-  }
+  "packageManager": "pnpm@11.26.0"
 }
